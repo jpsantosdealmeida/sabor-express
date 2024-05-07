@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "oo-sabor-express",
+			"path": ".."
+		},
+		{
+			"name": "Praticas - PYTHON CURSO 2",
+			"path": "../../Praticas - PYTHON CURSO 2"
+		},
+		{
+			"name": "js-curso-2-desafio_1",
+			"path": "../../../../Lógica de programação Alura/js-curso-2-desafio_1"
+		},
+		{
+			"name": "js-curso-2-desafio_2",
+			"path": "../../../../Lógica de programação Alura/js-curso-2-desafio_2"
+		},
+		{
+			"name": "js-curso-2-aula_-",
+			"path": "../../../../Lógica de programação Alura/js-curso-2-aula1/js-curso-2-aula1/js-curso-2-aula_-"
+		},
+		{
+			"path": "../../../../desafios javascript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js-curso-2-aula_-"
+	}
+}
